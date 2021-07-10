@@ -4,10 +4,13 @@
         flex-direction: column;
     }
 
-    .botao{
+    .botoes{
         margin-top: 5px;
         width: 300px;
         
+    }
+    .botoes a{
+        font-size: 5px;
     }
 }
 

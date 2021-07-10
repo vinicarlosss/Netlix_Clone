@@ -117,3 +117,15 @@ header nav a:hover{
     height: 400px;
     object-fit: fill;
 }
+
+.conteudo{
+    position: relative;
+    margin: 5%;
+    border: solid;
+    color: black;
+    height: 800px;
+}
+.video{
+    width: 100%;
+    height: 100%;
+}
